@@ -1,2 +1,2 @@
-# TeshZark
+# TechZark
 DESCRIPTION is not available
